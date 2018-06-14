@@ -49,6 +49,8 @@
 .squares {
   height: 100px;
   width: 100px:
+  clear: both;
+  
 }
 
 #featured-brands-wrapper {
