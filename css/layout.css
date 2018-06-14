@@ -48,8 +48,8 @@
 }
 
 .squares {
-  height: 30%;
-  width: 50%;
+  height: 50px;
+  width: 25%;
   display: inline-block;;
   margin: 5px;
 }
