@@ -48,13 +48,13 @@
 
 .squares {
   height: 340px;
-  width: 399px;
+  width: 300px;
   display: inline-block;
   margin-left: 1px;
   float: left;
 }
 #square-1 {
-  margin-right: 20px;
+  margin-right: 19px;
 }
 
 #square-2 {
