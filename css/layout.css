@@ -29,11 +29,13 @@
   margin-right: :15px;
   float: left;
   height: 590px;
+  margin-bottom: 15px;
 }
 
 #one-third-column {
   width: 35%;
   margin-left: 15px;
+  margin-bottom: 15px;
   float:right;
   height: auto;
 
