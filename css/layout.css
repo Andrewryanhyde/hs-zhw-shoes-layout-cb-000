@@ -48,11 +48,10 @@
 }
 
 .squares {
-  height:330px;
+  height: 340px;
   width: 300px;
   display: inline-block;;
   margin: 15px;
-  margin-left: 1px;
 }
 
 #featured-brands-wrapper {
