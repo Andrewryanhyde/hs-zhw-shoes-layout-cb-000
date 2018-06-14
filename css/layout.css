@@ -79,12 +79,13 @@ margin-left: 20px;
 
 #link-1 {
   width: 300px;
+  display: inline-block;
 }
 
 #link-2 {
-width: 300px;
+  width: 300px;
 }
 
 #link-3 {
-width: 300px;
+  width: 300px;
 }
