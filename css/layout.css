@@ -41,7 +41,7 @@
 }
 
 #one-third-sections {
-  display: inline;
+  clear: both;
   width: 100%;
   height: 100px;
 }
