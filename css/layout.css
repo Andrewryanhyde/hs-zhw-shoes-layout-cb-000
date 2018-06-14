@@ -27,12 +27,14 @@
 #two-thirds-column {
   width: 55%;
   margin:15px;
+  float: left;
 }
 
 #one-third-column {
   width: 35%;
   margin: 15px;
-  
+  float:right;
+
 }
 
 #one-third-sections {
