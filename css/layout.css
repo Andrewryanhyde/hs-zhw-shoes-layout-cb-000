@@ -49,8 +49,8 @@
   width: 25%;
   clear: both;
   display: inline-block;
-  margin-top: 20px;
-
+  margin-top: 20px:auto;
+  align: center;
 }
 
 #featured-brands-wrapper {
