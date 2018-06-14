@@ -43,6 +43,7 @@
 .one-third-sections {
   clear: both;
   display:inline;
+  clearfix
 }
 
 .img-square-class {
@@ -54,6 +55,4 @@
   height: auto;
   background-color: blue;
   z-index: 22;
-
-
 }
