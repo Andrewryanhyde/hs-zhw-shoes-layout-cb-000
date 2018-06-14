@@ -43,7 +43,7 @@
 #one-third-sections {
   clear: both;
   display: inline;
-  height: 100px;
+  width: 20%
 }
 
 .img-square-class {
