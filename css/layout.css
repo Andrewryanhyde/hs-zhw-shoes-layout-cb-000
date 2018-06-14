@@ -52,6 +52,7 @@
   width: 300px;
   display: inline-block;
   margin: 16px;
+  float: center;
 }
 
 #featured-brands-wrapper {
