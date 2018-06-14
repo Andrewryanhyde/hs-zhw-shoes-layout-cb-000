@@ -42,6 +42,7 @@
 
 .one-third-sections {
   clear: both;
+  display: inline;
 }
 
 #featured-brands-wrapper {
