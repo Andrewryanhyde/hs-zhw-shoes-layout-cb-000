@@ -41,16 +41,15 @@
 }
 
 #one-third-sections {
-
+  display: inline-block;
 }
 
 .squares {
   height: 10%;
   width: 25%;
   clear: both;
-  display: inline-block;
   margin-top: 20px:auto;
-  align: center;
+
 }
 
 #featured-brands-wrapper {
