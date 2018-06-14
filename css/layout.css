@@ -27,11 +27,13 @@
 #two-thirds-column {
   width: 55%;
   margin:15px;
+  display: inline;
 }
 
 #one-third-column {
   width: 35%;
   margin: 15px;
+  display: inline;
 }
 
 #one-third-sections {
