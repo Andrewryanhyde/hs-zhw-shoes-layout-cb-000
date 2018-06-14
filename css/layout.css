@@ -47,8 +47,8 @@
   width: 50px;
 }
 
-img {
-
+.img-square-class {
+  height: 20px;
 }
 
 #featured-brands-wrapper {
