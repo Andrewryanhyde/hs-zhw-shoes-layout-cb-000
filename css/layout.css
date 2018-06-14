@@ -43,7 +43,8 @@
 .one-third-sections {
   clear: both;
   display:inline;
-  
+  height: 50px;
+  width: auto;
 }
 
 img {
