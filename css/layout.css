@@ -50,9 +50,8 @@
 .squares {
   height: 340px;
   width: 300px;
-  display: inline-block;;
+  display: inline-block;
   margin: 16px;
-  margin-left: 1px;
 }
 
 #featured-brands-wrapper {
