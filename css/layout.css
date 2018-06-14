@@ -53,7 +53,7 @@
   display: inline-block;;
   margin: 5px;
   margin-left: 1px;
-  align: center;
+  float: none;
 }
 
 #featured-brands-wrapper {
