@@ -34,9 +34,10 @@
   width: 35%;
   margin: 15px;
   float:right;
+  height: auto;
 
 }
 
-#one-third-sections {
-
+.one-third-sections {
+  clear: both;
 }
