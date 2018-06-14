@@ -54,12 +54,12 @@
   float: left;
 }
 #square-1 {
-  margin-right: 5px;
+  margin-right: 20px;
 }
 
 #square-2 {
-margin-left: 5px;
-margin-right: 5px;
+margin-left: 10px;
+margin-right: 10px;
 }
 
 #square-3 {
