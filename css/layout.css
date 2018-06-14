@@ -40,10 +40,10 @@
 
 }
 
-.one-third-sections {
+#one-third-sections {
   clear: both;
-  display:inline;
-  clearfix
+  display: inline;
+  height: 100px;
 }
 
 .img-square-class {
@@ -52,7 +52,5 @@
 }
 
 #featured-brands-wrapper {
-  height: auto;
-  background-color: blue;
-  z-index: 22;
+  height: 100px;
 }
