@@ -25,7 +25,7 @@
 /* Posititoning Classes */
 
 #two-thirds-column {
-  width: 60%;
+  width: 69%;
   margin-right: :15px;
   float: left;
   height: 590px;
@@ -33,7 +33,7 @@
 }
 
 #one-third-column {
-  width: 40%;
+  width: 39%;
   margin-left: 15px;
   float:right;
   height: auto;
