@@ -44,12 +44,11 @@
   clear: both;
   width: 100%;
   height: 100px;
-  margin-left:
 }
 
 .squares {
   height: 340px;
-  width: 301px;
+  width: 300px;
   display: inline-block;
   margin: 19px;
   margin-left: 1px;
