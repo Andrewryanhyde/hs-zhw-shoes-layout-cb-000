@@ -41,7 +41,7 @@
 }
 
 #one-third-sections {
-  display: inline;
+  display: inline-block;;
 }
 
 .squares {
