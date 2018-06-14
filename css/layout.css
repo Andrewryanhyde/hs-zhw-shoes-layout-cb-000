@@ -53,7 +53,17 @@
   margin-left: 1px;
   float: left;
 }
+#square-1 {
+  margin-right: 5px;
+}
 
+#square-2 {
+margin-left: 5px;
+}
+
+#square-3 {
+
+}
 #featured-brands-wrapper {
   height: 100px;
 }
