@@ -45,8 +45,8 @@
 }
 
 .squares {
-  height: 100px;
-  width: 100px;
+  height: auto;;
+  width: 30%;
   clear: both;
   display: inline-block;
 
